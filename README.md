@@ -31,12 +31,12 @@ In this tutorial, the following dialog or conversation flow will be created. If 
 
 1. Welcome
 2. Did you have a good weekend? (y/n)
-      a. Yes (Intent): “That's great to hear! I hope you had a restful                  weekend.”
-      b. No (Intent): “I’m sorry to hear that. :( I hope next weekend will be           better.”
-What did you do over the weekend?
-Relax (Intent): “That’s good, sometimes you need to take time for yourself to do better moving forward!”
-Work (Intent): “Wow, that’s great! You sure were productive over the weekend. Good job!”
-Anything else
+   i. Yes (Intent): “That's great to hear! I hope you had a restful                  weekend.”
+   ii. No (Intent): “I’m sorry to hear that. :( I hope next weekend will be           better.”
+3. What did you do over the weekend?
+   i. Relax (Intent): “That’s good, sometimes you need to take time for              yourself to do better moving forward!”
+   ii. Work (Intent): “Wow, that’s great! You sure were productive over the           weekend. Good job!”
+4. Anything else
 
 
 Steps: 
