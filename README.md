@@ -261,20 +261,21 @@ In the second child node, add the **“#work”** intent and type the reply, “
 1. Look at the child nodes for the node **“Did you have a good weekend?”.**
 
 
-pic
+![Picture 28](screenshots/pic28.png)
 
 2. Select the **“#yes”** node. Scroll down to **“Then assistant should”** and choose the **Jump to** option, then select the next node in the conversation, **“What did you do this weekend?”** node and choose **“Respond”**
 
-pic
+![Picture 29](screenshots/pic29.png) 
 
 3. Repeat Step 2 for the **“#no”** node. The following image is what you should receive after creating the jumps. 
-p
+
+![Picture 30](screenshots/pic30.png)
 
 4. You’re done! Try the conversation in the **“Try it”** panel on the top right hand corner using some of the answers we created. 
 **Note: You’ll need to say hi to start the conversation. Do you remember the #General_Greeting intent we added to the “Did you have a good weekend?” node?**
 
 
-p
+![Picture 31](screenshots/pic31.png)
 
 ---
 
@@ -286,7 +287,7 @@ Revise your chatbot so that after the chatbot provides a response, you will have
 
 Sample screenshot:
 
-
+![Picture 32](screenshots/pic32.jpg)
 
 ---
 
