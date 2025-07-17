@@ -282,7 +282,7 @@ Sample screenshot:
 
 ---
 
-## 🎓 Well done! You’ve not only built a chatbot — you’ve engineered a conversation. This lab marks a meaningful step in transforming curiosity into capability.
+## 🎓 Well done! You’ve not only built a chatbot; you’ve engineered a conversation. This lab marks a meaningful step in transforming curiosity into capability.
 
 
 
