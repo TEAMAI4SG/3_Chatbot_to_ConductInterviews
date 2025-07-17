@@ -59,13 +59,13 @@ pic
 
 4. Scroll down to the end and note your service name should have a default similar to “Watson Assistant -t8”. Click on **Create** on the bottom right to create your service.
 
-pic 
+pic
 
 1) If you are getting an error message as seen below, follow these steps.
 
 pic 
 
-2) Select delete. Give the page a few moments to load and you should see          the following. Type **“Watson Assistant” under Name**. Hit the three dots          and then select delete. Once deleted, navigate back to the Watson              Assistant page and continue following the steps. 
+2) Select delete. Give the page a few moments to load and you should see the following. Type **“Watson Assistant” under Name**. Hit the three dots and then select delete. Once deleted, navigate back to the Watson Assistant page and continue following the steps. 
 
 pic 
 
