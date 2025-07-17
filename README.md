@@ -61,11 +61,11 @@ pic
 
 pic 
 
-i. If you are getting an error message as seen below, follow these steps.
+1) If you are getting an error message as seen below, follow these steps.
 
-pic
-    
-ii. Select delete. Give the page a few moments to load and you should see          the following. Type **“Watson Assistant” under Name**. Hit the three dots          and then select delete. Once deleted, navigate back to the Watson              Assistant page and continue following the steps. 
+pic 
+
+2) Select delete. Give the page a few moments to load and you should see          the following. Type **“Watson Assistant” under Name**. Hit the three dots          and then select delete. Once deleted, navigate back to the Watson              Assistant page and continue following the steps. 
 
 pic 
 
