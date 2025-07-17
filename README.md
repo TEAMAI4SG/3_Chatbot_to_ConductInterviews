@@ -108,8 +108,11 @@ b. Select delete. Give the page a few moments to load and you should see the fol
 
 2. Click the **Welcome** node,  adjust the text under, “Assistant responds,” with **“Hi there! I'm an AI Helper to see your experience during the weekend.”** **(***Don’t include quotations for the responses)**
 
+![Picture 12](screenshots/pic12.png)
 
 3. Click on the menu ( ⋮ ) on the upper right corner of the Welcome node and click **Add node below**.
+
+![Picture 13](screenshots/pic13.png)
 
 
 4. In the new node, the first textbox has a hint text “Enter node name (optional)”, name it **“Did you have a good weekend?”**
@@ -117,7 +120,7 @@ b. Select delete. Give the page a few moments to load and you should see the fol
 5. In the box underneath “Assistant responds” and “Text”, type **“Did you have a good weekend?”** for the assistant’s response
 
 
-pic
+![Picture 14](screenshots/pic14.png)
 
 
 6. Click on the menu ( ⋮ ) for the node you just edited and click **“Add node below”**
@@ -125,7 +128,9 @@ pic
 8. In the box underneath “Assistant responds” and “Text”, type **“What did you do this weekend?”** for the assistant’s response. This is similar to Step 6.
 9. **Submit a screenshot like the one below.
 (Important: Please click on the person icon on the upper right corner to show your name in the screenshot otherwise you will not receive credit.)**
-pic
+
+
+![Picture 15](screenshots/pic15.png)
 
 ---
 
