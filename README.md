@@ -39,7 +39,7 @@ In this tutorial, the following dialog or conversation flow will be created. If 
 4. Anything else
 
 
-pic
+![Picture 1](screenshots/pic1.png)
 
 ---
 
@@ -51,27 +51,27 @@ pic
 1. Log in to [https://cloud.ibm.com/login] with your IBM account that you created using your SJSU email account.
 2. Search for **“Watson Assistant**” in the search bar on the top, then click on the service under **Catalog Results**. Finally, **Launch Watson Assistant**
 
-
+![Picture 2](screenshots/pic2.png)
 
 3. You will be taken to the Catalog page to create the service. Please make sure that your location is set to **Dallas (us-south).** 
 
-pic
+![Picture 3](screenshots/pic3.png)
 
 4. Scroll down to the end and note your service name should have a default similar to “Watson Assistant -t8”. Click on **Create** on the bottom right to create your service.
 
-pic
+![Picture 4](screenshots/pic4.png) 
 
 1) If you are getting an error message as seen below, follow these steps.
 
-pic 
+![Picture 5](screenshots/pic5.png)
 
 2) Select delete. Give the page a few moments to load and you should see the following. Type **“Watson Assistant” under Name**. Hit the three dots and then select delete. Once deleted, navigate back to the Watson Assistant page and continue following the steps. 
 
-pic 
+![Picture 6](screenshots/pic6.png)
 
 5. After creating the service, click on **Launch Watson Assistant** to launch the tool. 
 
-pic
+![Picture 7](screenshots/pic7.png)
 
 6. Once you’re on the **Welcome to watsonx Assistant** page, name your assistant **“Student Weekend Life Survey”**. Leave the description blank and click **Create Assistant** then **Next** on the upper right hand corner.
 
@@ -83,20 +83,20 @@ pic
 10. On the side bar, click on **“Assistant settings”.**
 
 
-pic 
+![Picture 8](screenshots/pic8.png)
 
 11. Scroll down and click on **“Activate dialog”**. Click on **“Activate dialog”** again on the pop-up.
 
-pic
+![Picture 9](screenshots/pic9.png)
 
 12. On the side bar, click on the new **Dialog** button.
 
-
+![Picture 10](screenshots/pic10.png)
 
 13. **Submit a screenshot like the one below.
 (Important: Please click on the person icon on the upper right corner to show your name in the screenshot otherwise you will not receive credit.)**
 
-pic
+![Picture 11](screenshots/pic11.png)
 
 **Note: For the following assistant responses, you don’t need to include the quotations.**
 
