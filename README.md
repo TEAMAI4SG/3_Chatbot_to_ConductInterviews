@@ -61,11 +61,11 @@ pic
 
 pic 
 
-a. If you are getting an error message as seen below, follow these steps.
+    1) If you are getting an error message as seen below, follow these steps.
 
 pic
-
-    i. Select delete. Give the page a few moments to load and you should see          the following. Type “Watson Assistant” under Name. Hit the three dots          and then select delete. Once deleted, navigate back to the Watson              Assistant page and continue following the steps. 
+    
+    2) Select delete. Give the page a few moments to load and you should see          the following. Type “Watson Assistant” under Name. Hit the three dots          and then select delete. Once deleted, navigate back to the Watson              Assistant page and continue following the steps. 
 
 After creating the service, click on Launch Watson Assistant to launch the tool. 
 Once you’re on the Welcome to watsonx Assistant page, name your assistant “Student Weekend Life Survey”. Leave the description blank and click Create Assistant then Next on the upper right hand corner.
