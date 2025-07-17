@@ -61,11 +61,11 @@ In this tutorial, the following dialog or conversation flow will be created. If 
 
 ![Picture 4](screenshots/pic4.png) 
 
-1) If you are getting an error message as seen below, follow these steps.
+    1) If you are getting an error message as seen below, follow these     steps.
 
 ![Picture 5](screenshots/pic5.png)
 
-2) Select delete. Give the page a few moments to load and you should see the following. Type **“Watson Assistant” under Name**. Hit the three dots and then select delete. Once deleted, navigate back to the Watson Assistant page and continue following the steps. 
+    2) Select delete. Give the page a few moments to load and you should see the following. Type **“Watson Assistant” under Name**. Hit the three dots and then select delete. Once deleted, navigate back to the Watson Assistant page and continue following the steps. 
 
 ![Picture 6](screenshots/pic6.png)
 
