@@ -31,27 +31,41 @@ In this tutorial, the following dialog or conversation flow will be created. If 
 
 1. Welcome
 2. Did you have a good weekend? (y/n)
-   i. Yes (Intent): “That's great to hear! I hope you had a restful                  weekend.”
-   ii. No (Intent): “I’m sorry to hear that. :( I hope next weekend will be           better.”
+   1) Yes (Intent): “That's great to hear! I hope you had a restful                  weekend.”
+   2) No (Intent): “I’m sorry to hear that. :( I hope next weekend will be           better.”
 3. What did you do over the weekend?
-   i. Relax (Intent): “That’s good, sometimes you need to take time for              yourself to do better moving forward!”
-   ii. Work (Intent): “Wow, that’s great! You sure were productive over the           weekend. Good job!”
+   1) Relax (Intent): “That’s good, sometimes you need to take time for              yourself to do better moving forward!”
+   2) Work (Intent): “Wow, that’s great! You sure were productive over the           weekend. Good job!”
 4. Anything else
 
 
-Steps: 
-Part 1 Create a new assistant
-Log in to https://cloud.ibm.com/login with your IBM account that you created using your SJSU email account.
-Search for “Watson Assistant” in the search bar on the top, then click on the service under Catalog Results. Finally, Launch Watson Assistant
+pic
+
+---
+
+
+## 🚶‍♂️Steps: 
+
+## 🧰 Part 1 Create a new assistant
+
+1. Log in to [https://cloud.ibm.com/login] with your IBM account that you created using your SJSU email account.
+2. Search for **“Watson Assistant**” in the search bar on the top, then click on the service under **Catalog Results**. Finally, **Launch Watson Assistant**
 
 
 
-You will be taken to the Catalog page to create the service. Please make sure that your location is set to Dallas (us-south). 
+3. You will be taken to the Catalog page to create the service. Please make sure that your location is set to **Dallas (us-south).** 
 
+pic
 
-Scroll down to the end and note your service name should have a default similar to “Watson Assistant -t8”. Click on Create on the bottom right to create your service.
-If you are getting an error message as seen below, follow these steps. 
-Select delete. Give the page a few moments to load and you should see the following. Type “Watson Assistant” under Name. Hit the three dots and then select delete. Once deleted, navigate back to the Watson Assistant page and continue following the steps. 
+4. Scroll down to the end and note your service name should have a default similar to “Watson Assistant -t8”. Click on **Create** on the bottom right to create your service.
+
+pic 
+
+a. If you are getting an error message as seen below, follow these steps.
+
+pic
+
+    i. Select delete. Give the page a few moments to load and you should see          the following. Type “Watson Assistant” under Name. Hit the three dots          and then select delete. Once deleted, navigate back to the Watson              Assistant page and continue following the steps. 
 
 After creating the service, click on Launch Watson Assistant to launch the tool. 
 Once you’re on the Welcome to watsonx Assistant page, name your assistant “Student Weekend Life Survey”. Leave the description blank and click Create Assistant then Next on the upper right hand corner.
