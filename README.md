@@ -209,39 +209,39 @@ Additional resources: [https://cloud.ibm.com/docs/assistant?topic=assistant-gett
 
 1. Go to **Content Catalog** on the left navigation bar **(These are existing intents already created by IBM.)** and look for **“General,”** then click **Add content**
 
-pic
+![Picture 20](screenshots/pic20.jpg) 
 
 2. Go to **Intents** to view the intents from the **General Category** you added to your skill. For example, **General_About_You** or **General_Agent_Capabilities.** You can explore the type of user responses under each intent.
 
-pic
+![Picture 21](screenshots/pic21.png)
 
 3. Go to the **Dialog** tab, which can be found in the left navigation bar.
 Click on the **“Did you have a good weekend?”** node. Under the **“If assistant recognizes”** area, add **“#General_Greetings”** as the condition. 
 
 Note: The #General_Greetings intent was imported from Content Catalog in Step 1 and is catching common user greetings, such as “Hi” or “Hello.” Conditions will be used to capture a user’s response and give a reply in the following steps.
 
-pic 
+![Picture 22](screenshots/pic22.png)
 
 4. Click on the menu ( ⋮ ) for the **“Did you have a good weekend?”** node and click on **Add a child node.**
 
-pic
+![Picture 23](screenshots/pic23.png)
 
 5. Repeat and add another child node for **“Did you have a good weekend?”** **(You should now have two child nodes).**
 
 
-pic
+![Picture 24](screenshots/pic24.png)
 
 6. Click on the first child node. Next, enter **“#yes”** as the condition under **“If assistant recognizes”**
 
 7. Finally, type **“That's great to hear! I hope you had a restful weekend.**” for the assistant’s response.
 
-pic
+![Picture 25](screenshots/pic25.png)
 
 
 8. Click on the second child node. Next, enter **“#no”** into the condition under **“If assistant recognizes”**
 9. Finally, type **“I'm sorry to hear that. :( I hope next weekend will be better!”**
 
-pic
+![Picture 26](screenshots/pic26.png)
 
 10. Now, **add two child nodes** for the node **“What did you do this weekend?”**, similar to steps 5 and 6. 
 In the first child node, add the **“#relax”** intent and type the reply, **“That’s good, sometimes you need to take time for yourself to do better moving forward!”** This is similar to Steps 7 and 8.
@@ -251,10 +251,10 @@ In the second child node, add the **“#work”** intent and type the reply, “
 (Important: Please click on the person icon on the upper right corner to show your name in the screenshot otherwise you will not receive credit.)**
 
 
-pic 
+![Picture 27](screenshots/pic27.png)
+
 
 ---
-
 
 ## 🧵 Part 5 [Establish a conversation flow](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-dialog-overview)
 
