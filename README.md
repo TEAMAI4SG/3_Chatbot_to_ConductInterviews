@@ -18,11 +18,10 @@
 
 - [Watson Assistant Documentation](https://cloud.ibm.com/docs/assistant?topic=assistant-getting-started)
 - To make the following survey, it might be helpful to have some knowledge of:
-
-    -[Dialog Skill](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-skill-dialog-add)
-    - [Intents](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-intents)
-    - [Entities](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-entities)
-    - [Dialog](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-dialog-build)
+  - [Dialog Skill](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-skill-dialog-add)
+  - [Intents](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-intents)
+  - [Entities](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-entities)
+  - [Dialog](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-dialog-build)
 
 ---
 
