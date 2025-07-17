@@ -140,10 +140,13 @@ We’ll be adding two intents **(yes and no)** to accompany the question: **“D
 
 1. Click on the **Intents** tab in the left navigation bar.
 
+![Picture 16](screenshots/pic16.png)
+
 
 2. Click on **Create Intent**
 3. Name one intent **“yes”** and click on **Create intent**
 
+![Picture 17](screenshots/pic17.png) 
 
 4. In the **User example** area, enter **“yes”** and click on **Add example** (or hit **Enter**). Then repeat and add the following “User examples” **(Intents are possible user responses or questions the chatbot is taught to recognize.):**
 - Yes
@@ -154,7 +157,7 @@ We’ll be adding two intents **(yes and no)** to accompany the question: **“D
 - I think so
 
 
-pic
+![Picture 18](screenshots/pic18.png)
 
 
 5. Click the **blue back button** (not your browser back button) to go back to the Create Intents page, then Click on **Create Intent** on the top right.
@@ -194,7 +197,7 @@ pic
 11. **Submit a screenshot like the one below.
 (Important: Please click on the person icon on the upper right corner to show your name in the screenshot otherwise you will not receive credit.)**
 
-pic
+![Picture 19](screenshots/pic19.png)
 
 12. Click the **blue back button** (not your browser back button) to go back to the Create Intents page.
 
